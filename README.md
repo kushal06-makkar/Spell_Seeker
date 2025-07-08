@@ -100,7 +100,7 @@ Improved UI/UX
 
 Cross-platform compatibility
 
-##📜 License
+## 📜 License
 
 This project is licensed under the MIT License.
 
