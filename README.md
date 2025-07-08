@@ -88,7 +88,8 @@ You have ♥ ♥ ♥ ♥ ♥ lives left...
 Enter an Alphabet to Guess...
 
 
-🤝 Contributing
+## 🤝 Contributing
+
 Feel free to fork the repository and submit pull requests with:
 
 Bug fixes
@@ -99,6 +100,7 @@ Improved UI/UX
 
 Cross-platform compatibility
 
-📜 License
+##📜 License
+
 This project is licensed under the MIT License.
 
