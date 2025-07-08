@@ -1,0 +1,445 @@
+1,Happy,Feeling good
+2,House,You live here
+3,Rain,Falls from sky
+4,Color,"Red, blue, green"
+5,Flower,Smells nice
+6,Funny,Makes you laugh
+7,Mountain,Very tall rock
+8,Planet,Earth is one
+9,Rainbow,After rain
+10,Animal,"Dog, cat, bear"
+11,Delicious,Tastes good
+12,Mysterious,Full of secrets
+13,Gigantic,Very big
+14,Symphony,Orchestra music
+15,Courageous,Brave
+16,Beach,Sand and sea
+17,Bookworm,Loves to read
+18,Delicious,Tastes good
+19,Architect,Designs houses
+20,Basketball,Orange ball
+21,Birthday,Celebrate age
+22,Butterfly,Has wings
+23,Chocolate,Sweet treat
+24,Clock,Tells time
+25,Cloud,Fluffy in sky
+26,Dance,Move to music
+27,Dentist,Fixes teeth
+28,Dictionary,Word meanings
+29,Dinosaur,Extinct giant
+30,Doctor,Cares for sick
+31,Dream,Night thought
+32,Earth,Blue planet
+33,Education,Learning at school
+34,Elephant,Big ears
+35,Energy,Makes things move
+36,Engineer,Builds bridges
+37,Exciting,Makes you happy
+38,Expensive,Costs a lot
+39,Explore,Discover new things
+40,Family,"Mom, dad, kids"
+41,Fashion,Clothes style
+42,Fearful,Feeling scared
+43,Festival,Big celebration
+44,Finger,Part of hand
+45,Fire,Hot and burns
+46,Fish,Lives in water
+47,Flag,Represents country
+48,Forest,Many trees
+49,Forget,Can't remember
+50,Friendly,
+51,Phenomenon,Strange sight
+52,Nostalgia,Missing past
+53,Versatile,Many uses
+54,Acropolis,Ancient Greek
+55,Serendipity,Lucky find
+56,Euphony,Pleasant sound
+57,Stoic,Emotionless
+58,Ephemeral,Short-lived
+59,Nostalgia,Missing past
+60,Connoisseur,Expert
+61,Urban,City-related
+62,Quirky,Unusual
+63,Nostalgia,Missing past
+64,Renaissance,Rebirth
+65,Melodic,Pleasant sound
+66,Nostalgia,Missing past
+67,Monochromatic,Single color
+68,Stoic,Emotionless
+69,Vigorous,Energetic
+70,Nostalgia,Missing past
+71,Camouflage,Blends in
+72,Nostalgia,Missing past
+73,Archipelago,Many islands
+74,Impromptu,Not planned
+75,Connoisseur,Expert
+76,Euphony,Pleasant sound
+77,Stoic,Emotionless
+78,Kaleidoscope,Colorful pattern
+79,Nostalgia,Missing past
+80,Renaissance,Rebirth
+81,Melodic,Pleasant sound
+82,Nostalgia,Missing past
+83,Monochromatic,Single color
+84,Tenacious,Doesn't give up
+85,Nostalgia,Missing past
+86,Constellation,Star patterns
+87,Enigma,Mystery
+88,Chronicle,Historical record
+89,Vigorous,Energetic
+90,Nostalgia,Missing past
+91,Nostalgia,Missing past
+92,Labyrinth,Maze
+93,Connoisseur,Expert
+94,Phenomenon,Strange sight
+95,Versatile,Many uses
+96,Acropolis,Ancient Greek
+97,Serendipity,Lucky find
+98,Euphony,Pleasant sound
+99,Stoic,Emotionless
+100,Ephemeral,Short-lived
+101,Nostalgia,Missing past
+102,Connoisseur,Expert
+103,Urban,City-related
+104,Quirky,Unusual
+105,Renaissance,Rebirth
+106,Melodic,Pleasant sound
+107,Monochromatic,Single color
+108,Stoic,Emotionless
+109,Vigorous,Energetic
+110,Nostalgia,Missing past
+111,Precipitous,Steep
+112,Nostalgia,Missing past
+113,Archipelago,Many islands
+114,Impromptu,Not planned
+115,Connoisseur,Expert
+116,Euphony,Pleasant sound
+117,Stoic,Emotionless
+118,Enigma,Mystery
+119,Chronicle,Historical record
+120,Vigorous,Energetic
+121,Nostalgia,Missing past
+122,Melodic,Pleasant sound
+123,Monochromatic,Single color
+124,Tenacious,Doesn't give up
+125,Nostalgia,Missing past
+126,Constellation,Star patterns
+127,Enigma,Mystery
+128,Chronicle,Historical record
+129,Vigorous,Energetic
+130,Nostalgia,Missing past
+131,Labyrinth,Maze
+132,Connoisseur,Expert
+133,Phenomenon,Strange sight
+134,Versatile,Many uses
+135,Acropolis,Ancient Greek
+136,Serendipity,Lucky find
+137,Euphony,Pleasant sound
+138,Stoic,Emotionless
+139,Ephemeral,Short-lived
+140,Nostalgia,Missing past
+141,Connoisseur,Expert
+142,Urban,City-related
+143,Quirky,Unusual
+144,Renaissance,Rebirth
+145,Melodic,Pleasant sound
+146,Impeccable,Flawless
+147,Nostalgia,Missing past
+148,Archipelago,Many islands
+149,Impromptu,Not planned
+150,Euphony,Pleasant sound
+151,Stoic,Emotionless
+152,Enigma,Mystery
+153,Chronicle,Historical record
+154,Vigorous,Energetic
+155,Nostalgia,Missing past
+156,Melodic,Pleasant sound
+157,Monochromatic,Single color
+158,Tenacious,Doesn't give up
+159,Nostalgia,Missing past
+160,Constellation,Star patterns
+161,Enigma,Mystery
+162,Chronicle,Historical record
+163,Vigorous,Energetic
+164,Nostalgia,Missing past
+165,Labyrinth,Maze
+166,Connoisseur,Expert
+167,Phenomenon,Strange sight
+168,Versatile,Many uses
+169,Acropolis,Ancient Greek
+170,Serendipity,Lucky find
+171,Euphony,Pleasant sound
+172,Stoic,Emotionless
+173,Ephemeral,Short-lived
+174,Nostalgia,Missing past
+175,Connoisseur,Expert
+176,Urban,City-related
+177,Quirky,Unusual
+178,Renaissance,Rebirth
+179,Melodic,Pleasant sound
+180,Monochromatic,Single color
+181,Savory,Hearty flavor
+182,Umami,"Savory, brothy"
+183,Zesty,"Tangy, citrusy"
+184,Nocturnal,Active at night
+185,Amphibious,Lives on land & water
+186,Carnivore,Eats meat
+187,Penalty,Punishment
+188,Backhand,Hit with back
+189,Backstroke,Swim on back
+190,Volley,Hit in the air
+191,Architect,Designs houses
+192,Cardiologist,Treats hearts
+193,Paleontologist,Studies fossils
+194,Myth,Story
+195,Centaur,"Half horse, half human"
+196,Kraken,Giant sea monster
+197,Phoenix,Reborns from ashes
+198,Idyllic,Peaceful
+199,Nostalgia,Missing past
+200,Antiquated,Old-fashioned
+201,Melodic,Pleasant sound
+202,Monochromatic,Single color
+203,Tenacious,Doesn't give up
+204,Stoic,Emotionless
+205,Precipitous,Steep
+206,Archipelago,Many islands
+207,Impromptu,Not planned
+208,Euphony,Pleasant sound
+209,Enigma,Mystery
+210,Chronicle,Historical record
+211,Conspicuous,Easy to see
+212,Mellifluous,Sweet-sounding
+213,Serene,Peaceful
+214,Ephemeral,Short-lived
+215,Connoisseur,Expert
+216,Phenomenon,Strange sight
+217,Versatile,Many uses
+218,Acropolis,Ancient Greek
+219,Serendipity,Lucky find
+220,Stoic,Emotionless
+221,Savory,Hearty flavor
+222,Umami,"Savory, brothy"
+223,Zesty,"Tangy, citrusy"
+224,Nocturnal,Active at night
+225,Amphibious,Lives on land & water
+226,Carnivore,Eats meat
+227,Penalty,Punishment
+228,Backhand,Hit with back
+229,Volley,Hit in the air
+230,Architect,Designs houses
+231,Ephemeral,Short-lived
+232,Mellifluous,Sweet-sounding
+233,Conspicuous,Easy to see
+234,Austere,"Plain, simple"
+235,Audacious,"Daring, bold"
+236,Nostalgia,Missing past
+237,Kaleidoscope,Colorful pattern
+238,Stoic,Emotionless
+239,Tenacious,Doesn't give up
+240,Monochromatic,Single color
+241,Renaissance,Rebirth
+242,Acropolis,Ancient Greek
+243,Phenomenon,Strange sight
+244,Versatile,Many uses
+245,Serendipity,Lucky find
+246,Therefore,Connects ideas
+247,Perhaps,Maybe
+248,Nevertheless,Connects ideas
+249,Although,Connects ideas
+250,Because,Explains reason
+251,Cat,Has whiskers
+252,Dog,Man's best friend
+253,Sun,Shines bright
+254,Moon,Glows at night
+255,House,You live in it
+256,Shirt,You wear it
+257,Cloud,Fluffy in the sky
+258,Butterfly,Colorful wings
+259,Water,You drink it
+260,Book,Has pages and stories
+261,Happy,Makes you smile
+262,Sad,Makes you cry
+263,Open,Opposite of closed
+264,Close,Opposite of open
+265,Up,Direction opposite of down
+266,Down,Opposite of up
+267,Yes,Positive answer
+268,Apple,Fruit
+269,Play,Have fun
+270,Jump,Go up in the air
+271,Run,Move fast on your feet
+272,Swim,Move in water
+273,Bike,Has two wheels
+274,Paint,Make art
+275,Draw,Create pictures
+276,Laugh,Makes a happy sound
+277,Cry,Makes sad tears
+278,Bread ,Tasty breakfast
+279,Banana,Fruit
+280,Tree,Tall and green
+281,Flower,Colorful and smells good
+282,Bird,Has wings and sings
+283,Fish,Lives in water
+284,Red,Color of fire
+285,Blue,Color of the sky
+286,Yellow,Color of a banana
+287,Green,Color of grass
+288,Big,Large in size
+289,Small,Tiny
+290,Hot,Makes you sweat
+291,Cold,Makes you shiver
+292,Round,Like a ball
+293,Square,Has 4 corners
+294,Rain,Falls from the sky
+295,Snow,White and cold
+296,Beach,By the ocean
+297,Cake,Sweet dessert
+298,Pizza,Round and cheesy
+299,Hand,Has fingers
+300,Foot,Helps to walk
+301,Teacher,Helps you learn
+302,Friend,Someone you play with
+303,Happy,Feeling good
+304,Sad,Feeling down
+305,Angry,Feeling mad
+306,Scared,Feeling afraid
+307,Rainbow,Colorful after rain
+308,Sacred,Pious
+309,Sloth,lazy animal
+310,Library,Collection of books
+311,Hippo,Big fat animal
+312,Skim,To read
+313,throw,toss something
+314,catch,grab something thrown
+315,swing,move back and forth
+316,slide,go down a slippery surface
+317,climb,go up something
+318,Mountain,high hill
+319,Valley,low area between mountains
+320,Gallery,collection of images
+321,Ceiling,Roof
+322,Jacket,Keeps you warm
+323,Rainbow,Colorful arc after rain
+324,Butterfly,Fluttering insect
+325,Ocean,Large body of salt water
+326,Jungle,Dense forest with many animals
+327,Castle,Large fortified building
+328,Pencil,Used for writing
+329,Eraser,Removes writing mistakes
+330,Clock,Tells time
+331,Houseplant,Plant kept indoors
+332,Mirror,Reflects your image
+333,Key,Opens a door
+334,Lock,Secures a door
+335,Window,Lets light and air in
+336,Table,Piece of furniture with a flat top
+337,Chair,Piece of furniture for sitting
+338,Sock,Worn on your feet
+339,Shoe,Covers your foot
+340,Island,Land surrounded by water
+341,River,A big stream
+342,Brook,a stream
+343,Independence,Freedom
+344,Topaz,a yellow gemstone
+345,History,study of past
+346,Election,to choose a leader
+347,Laptop,an electronic device
+348,Olympics,a sports event
+349,Badminton a sport,
+350,Champion,winner
+351,Telescope,Used for seeing faraway objects
+352,Microscope,Used for seeing tiny things
+353,Magnet,Attracts metal objects
+354,Instrument,"Makes musical sounds (e.g., guitar, piano)"
+355,Whisper,Speak very softly
+356,Curious,Eager to learn new things
+357,Melody,Pleasant tune in music
+358,Rhythm,Beat of the music
+359,Character,Person in a story
+360,Setting,Place and time of a story
+361,Imagine,Picture something in your mind
+362,Flower,colourful and smells good
+363,algorithm,a CS related term
+364,Rhinoceros,an animal
+365,Himalaya,mountain
+366,mercedes,a car brand
+367,Monumental ,Gigantic
+368,pencilstand,holds stationary
+369,calculator,used for calculations
+370,Peninsula,Water on three sides
+371,Individual,one person
+372,Ambiguous,not certain
+373,Military,Army
+374,Calendar,Collection of dates
+375,Ecstatic,Extremely happy
+376,Valour,Bravery
+377,Overwhelm,Strong emotion
+378,Herculean,eternal
+379,Philosophy,love of wisdom
+380,Conscience,ability to differentiate between right and wrong
+381,Manifesto,promise letter
+382,Unmitigated,with no barriers
+383,Embodiment,Representation
+384,Authoritarian,single person rule
+385,Aristocracy,rule of the highest social class
+386,Oligarchy,rule of a group of industrialists
+387,Bureaucracy,system of official administrators
+388,Egalitarian,a perfect society
+389,Utopia,an ideal world
+390,Communism,related to Karl Marx
+391,Anthropology,study of humans
+392,Chronology,in order of time
+393,Contemporary,of the same time
+394,Satiate,satisfy
+395,Parenthesis,brackets
+396,Socratic,related to Socrates
+397,Platonic,friendly
+398,Secluded,away from others
+399,Malnourished,nutrient deficient
+400,Nihilism,life is meaningless
+401,Stocicsm,to stay uaffected from the difficulties in life
+402,Utalitarian,greater good for greater number of people
+403,Benevolent,kind
+404,Compassionate,a kind person
+405,Empiricism,to justify things from senses
+406,Rhythm,
+407,Beethoven,clssical music composer
+408,Penitentiary,prison
+409,Symphony,related to music
+410,Orchestra,group of musicians
+411,Obliterate,wipe out
+412,Brobdingnagian,very large
+413,Magnanimous,Generous
+414,Epitome,Perfect example
+415,Capricious,Impulsive
+416,Labyrinthine,Complicated and confusing
+417,Zealous,Fervent
+418,Sagacious,Wise
+419,Ineffable,Indescribable
+420,Obfuscate,Confuse
+421,Ostentatious,Showy
+422,Gregarious,Sociable
+423,Vehement,Intense
+424,Aberration,Deviation from the norm
+425,Alacrity,Eagerness
+426,Ambivalent,Uncertain
+427,Cacophony,Harsh noise
+428,Copacetic,Perfectly satisfactory
+429,Discombobulate,Confuse
+430,Echelon,Level or rank in a hierarchy
+431,Evanescent,Fleeting
+432,Halcyon,Calm and peaceful
+433,Incandescent,Glowing brightly
+434,Desuetude,Disuse or discontinued use
+435,Soporific,Tending to cause sleep
+436,Laconic,Using very few words
+437,Zenith,Highest point
+438,Iconoclast,Someone who attacks cherished beliefs or institutions
+439,Malleable,Able to be shaped or changed easily
+440,Erudite,Having or showing great knowledge or learning
+441,Sagacious,Having or showing sound judgment
+442,Verisimilitude,The appearance of being true or real
+443,Sanguine,Optimistic or cheerful
+444,Numinous,Having a spiritual quality that inspires awe or reverence
+445,Protean,Constantly changing or varied
